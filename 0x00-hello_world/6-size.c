@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * Main - print the size of variables
+ * main: - Entry point
  * Return: 0 if successful
  */
 int main(void)
