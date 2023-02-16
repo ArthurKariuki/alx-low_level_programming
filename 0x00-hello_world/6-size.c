@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
- *Description: main - print the size of variables and space they consume in the memory
+ *Description: main - print the size of variables
  *Return: 0 if successful
  */
-int main()
+int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
 	printf("Size of an int: %zu byte(s)\n", sizeof(int));
