@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- *Description: main - print the size of variables
+ *main - print the size of variables
  *Return: 0 if successful
  */
 int main(void)
