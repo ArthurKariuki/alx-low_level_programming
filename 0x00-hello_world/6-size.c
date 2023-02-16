@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- *main - print the size of variables
- *Return: 0 if successful
+ * Main - print the size of variables
+ * Return: 0 if successful
  */
 int main(void)
 {
